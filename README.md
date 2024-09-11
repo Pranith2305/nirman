@@ -14,12 +14,10 @@ Provide a brief description of the project here.
    cd nirman
 
 3. **Package installer**
+4. **Run the project**
    ```bash
    npm install
-
-4.**Run the project**
-  ```bash
-    npm run dev
+   npm run dev
 
 5.**Run the project**
 
